@@ -1,0 +1,76 @@
+body{
+
+    /* background-image: url("Wall.jpg"); */
+    background-repeat: no-repeat;
+    background-size: auto,auto; /* for no repeat */
+}
+table{
+
+    border: 2px solid #f54343;
+    align-content: center;
+    align-items: center;
+    font-size: large;
+    text-align: center;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+th{
+    border-bottom: 1.5px solid palevioletred;
+}
+td{
+    border: 2px solid pink;
+    /* height: 35px; */
+   
+}
+.first-row{
+    background: #fff95d;
+    
+}
+.whiteSpaces{
+    background-color: white;
+    border: none;
+}
+.ajeebYellow{
+    background-color:#fff28f ;
+}
+.ajeebPink{
+    background-color:#fbefef ;
+}
+.ajeebOrange{
+
+    background-color: #ff9965;
+}
+.purple{
+    background-color: #dda0dd;
+}
+.blue{
+    background-color: #90c7ff;
+}
+.brownMunday{
+    background-color: #c79910;
+}
+.halkaBraown{
+    background-color: #eadda9;
+}
+.halkaBlue{
+    background-color: #e5e6fa;
+}
+.halkaGreen{
+    background-color:#cdea8d ;
+}
+.offWhite{
+    background-color: #ffffff;
+}
+.textBrown{
+    color: #e6b479;
+}
+.textGreen{
+    color: #6e7a21;
+}
+.textPurple{
+    color: #5d36bc;
+}
+.textLbrown{
+    color: #caa7a7;
+}
